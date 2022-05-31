@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FetchExercise</string>
+    <string name="fetch_exercises">Fetch Exercise</string>
+    <string name="list_x">List %1$d</string>
+    <string name="failed_to_load_hiring_items">Failed to load hiring items</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
 </resources>
